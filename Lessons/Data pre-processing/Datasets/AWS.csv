@@ -1,0 +1,16 @@
+type,rooms,room_size,label
+house,2,S,yes
+apartment,1,N,no
+villa,5,M,yes
+villa,3,L,yes
+house,nan,N,yes
+villa,3,N,no
+apartment,2,M,no
+apartment,nan,S,no
+house,2,S,yes
+house,3,L,yes
+villa,5,L,no
+house,2,N,yes
+house,4,L,no
+house,nan,N,yes
+house,3,S,yes
